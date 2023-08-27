@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card{
+  width: 70%;
+  margin:25px auto;
+  height: aut o;
+}
+.card-title{
+    margin: 0 0 3px 0;
+    letter-spacing: 0.7px;
+    display: -webkit-box;
+    font-size: 16px;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    height:auto;
+}
+.card-text{
+    margin: 0 0 31px 0;
+    font-size: 13px;
+    letter-spacing: 0.7px;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    height: auto;
+}
+.card-img-top{
+  /* max-height:150px ; */
+  object-fit: cover;
+}
+.author{
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+.source{
+  position: absolute;
+  top: -10px;
+  left: 0;
+  padding:0 2px;
+}
+#root a:focus{
+  outline: 2px dotted !important;
+  outline-color: inherit !important;
+  outline-offset: 0 !important;
+  box-shadow: none !important;
+}
+#root input:focus,#root button:focus{
+  outline: 2px dotted !important;
+  outline-color: inherit !important;
+  outline-offset: -4px !important;
+  box-shadow: none !important;
+}
