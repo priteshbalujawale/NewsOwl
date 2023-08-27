@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsowl/static/css/main.b8c6aee7.css",
+    "main.js": "/newsowl/static/js/main.122fef07.js",
+    "static/js/787.c5c41f37.chunk.js": "/newsowl/static/js/787.c5c41f37.chunk.js",
+    "static/media/loader.gif": "/newsowl/static/media/loader.b2a8fa3d8baba9fc720f.gif",
+    "index.html": "/newsowl/index.html",
+    "main.b8c6aee7.css.map": "/newsowl/static/css/main.b8c6aee7.css.map",
+    "main.122fef07.js.map": "/newsowl/static/js/main.122fef07.js.map",
+    "787.c5c41f37.chunk.js.map": "/newsowl/static/js/787.c5c41f37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c6aee7.css",
+    "static/js/main.122fef07.js"
+  ]
+}
